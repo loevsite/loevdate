@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["shop @ .gg/libra"];
+const statusMessages = ["@loevdate on twt"];
 
 
 let currentIndex = 0;
